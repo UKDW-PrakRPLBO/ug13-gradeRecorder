@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ug13-nim-sakitrumah" />
+        <module name="ug13-sakitrumah" />
+        <module name="GradeRecorder" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="GradeRecorder" target="1.8" />
+      <module name="ug13-nim-sakitrumah" target="1.7" />
+      <module name="ug13-sakitrumah" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

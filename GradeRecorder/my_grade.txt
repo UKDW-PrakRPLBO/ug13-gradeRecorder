@@ -1,0 +1,11 @@
+Nama: Edward Snowden
+NIM: 71190433
+Fakultas: Fakultas Teknologi Informasi
+Program Studi: Informatika
+
+KODE | NAMA MATAKULIAH | SKS | NILAI
+====================================
+TI0103#ARSITEKTUR DAN ORGANISASI KOMPUTER#3#90
+TI0093#MATEMATIKA DISKRIT#3#90
+TI0133#STRUKTUR DATA#3#84
+TI0153#INFRASTRUKTUR LAN#3#79

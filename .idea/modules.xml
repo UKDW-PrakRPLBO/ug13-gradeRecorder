@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GradeRecorder/GradeRecorder.iml" filepath="$PROJECT_DIR$/GradeRecorder/GradeRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UG13.iml" filepath="$PROJECT_DIR$/.idea/UG13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ug13-nim-sakitrumah/ug13-nim-sakitrumah.iml" filepath="$PROJECT_DIR$/ug13-nim-sakitrumah/ug13-nim-sakitrumah.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ug13-sakitrumah/ug13-sakitrumah.iml" filepath="$PROJECT_DIR$/ug13-sakitrumah/ug13-sakitrumah.iml" />
+    </modules>
+  </component>
+</project>
