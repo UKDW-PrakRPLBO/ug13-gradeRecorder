@@ -116,7 +116,7 @@ public class GradeRecoderTest {
         // Check the output
         String expectedOutput = "File Name: test_grades.txt" + System.lineSeparator() +
                 "File Extension: txt"  + System.lineSeparator() +
-                "File Size: 157 bytes"  + System.lineSeparator();
+                "File Size: 153 bytes"  + System.lineSeparator();
         assertEquals(expectedOutput, outContent.toString());
 
         // Clean up the file

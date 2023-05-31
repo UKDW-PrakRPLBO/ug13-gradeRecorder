@@ -43,24 +43,8 @@ public class App {
 
         // Load grades from file
         //TODO 1: Tampilkan hasil deserialisasi dari file my_grade.txt menggunakan method loadGradesFromFile
-        Mahasiswa loadedMahasiswa = mGradeRecorder.loadGradesFromFile("my_grade.txt");
-        if (loadedMahasiswa != null) {
-            System.out.println("Grades loaded successfully.");
 
-            System.out.println("Fakultas: " + loadedMahasiswa.getFakultas());
-            System.out.println("Prodi: " + loadedMahasiswa.getProdi());
-            System.out.println("Nama: " + loadedMahasiswa.getNama());
-            System.out.println("NIM: " + loadedMahasiswa.getNim());
-
-            System.out.println("Daftar Matakuliah:");
-            ArrayList<Matakuliah> loadedMatakuliah = loadedMahasiswa.getDaftarMatakuliah();
-            for (Matakuliah matakuliah : loadedMatakuliah) {
-                System.out.println("(" + matakuliah.getKode() + ") " + matakuliah.getNama() + ": " + matakuliah.getNilai());
-            }
-
-        } else {
-            System.out.println("Failed to load grades.");
-        }
+        // Write your source code here
 
     }
 }
